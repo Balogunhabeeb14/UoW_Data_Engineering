@@ -17,12 +17,12 @@ Ingestion: Insert unstructured data(Image and text) as BSON and JSON documents i
 Transformation: Use MongoDB's aggregation framework to extract and manipulate nested or hierarchical data.
 Storage: MongoDB Atlas serves as the repository for unstructured data, enabling fast retrieval and scalability.
 
-'''
+```
 Folder Structure
 ├── data/                       # Raw data files (CSV, JSON, etc.)
 ├── Weekly_Tutorial_Scripts/    # Python scripts for each pipeline step
 └── README.md            # Project documentation
-'''
+```
 
 
 
