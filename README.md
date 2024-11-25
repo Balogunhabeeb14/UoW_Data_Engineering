@@ -1,4 +1,4 @@
-Overview
+### Overview
 This repository contains scripts demonstrating a data engineering pipeline built using MongoDB Atlas (for unstructured data) and SQLite (for structured data). The pipeline covers essential steps such as ingestion, transformation, and storage for both structured datasets like tabular records and unstructured data like JSON or documents.
 
 The scripts are designed to be simple and easy to understand for beginners or intermediate data engineers.
@@ -19,7 +19,6 @@ Storage: MongoDB Atlas serves as the repository for unstructured data, enabling 
 
 ```
 Folder Structure
-├── data/                       # Raw data files (CSV, JSON, etc.)
 ├── Weekly_Tutorial_Scripts/    # Python scripts for each pipeline step
 └── README.md            # Project documentation
 ```
