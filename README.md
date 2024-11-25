@@ -4,19 +4,20 @@ This repository contains scripts demonstrating a data engineering pipeline built
 The scripts are designed to be simple and easy to understand for beginners or intermediate data engineers.
 
 Pipeline Features
+```
 Structured Data Processing (SQLite):
 
 Ingestion: Import structured data from CSV or Excel files.
 Transformation: Perform basic operations like cleaning.
 Storage: Store transformed data in SQLite, a lightweight and easy-to-use database.
-
+```
 
 Unstructured Data Processing (MongoDB Atlas):
-
+```
 Ingestion: Insert unstructured data(Image and text) as BSON and JSON documents into MongoDB Atlas.
 Transformation: Use MongoDB's aggregation framework to extract and manipulate nested or hierarchical data.
 Storage: MongoDB Atlas serves as the repository for unstructured data, enabling fast retrieval and scalability.
-
+```
 ```
 Folder Structure
 ├── Weekly_Tutorial_Scripts/    # Python scripts for each pipeline step
