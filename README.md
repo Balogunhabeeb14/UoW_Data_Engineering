@@ -26,6 +26,9 @@ Folder Structure
 
 
 Prerequisites
+```
 Python 3.8+
 MongoDB Atlas account with a free-tier cluster set up.
 SQLite (pre-installed with Python).
+```
+
