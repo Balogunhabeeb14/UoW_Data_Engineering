@@ -1,3 +1,12 @@
+# Additional Resources for 5DATA005W-Data-Engineering Module for Level 5 Data Science students (2024-2025 University of Westminster)
+
+The module is mandatory for Level 5 Data Science students. It was taught by myself ([Habeeb Balogun]([http://nedjmaou.github.io](https://www.westminster.ac.uk/about-us/our-people/directory/balogun-habeeb)): module leader).
+
+This module provides a basic understanding of data engineering methods with (mostly) practical tips, hands-on experience in data engineering pipelines, and some theory.
+ 
+The compiled list includes courses, blog posts, videos, and research papers sorted by themes.
+
+
 ### Overview
 This repository contains scripts demonstrating a data engineering pipeline built using MongoDB Atlas (for unstructured data) and SQLite (for structured data). The pipeline covers essential steps such as ingestion, transformation, and storage for both structured datasets like tabular records and unstructured data like JSON or documents.
 
