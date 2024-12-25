@@ -1,7 +1,6 @@
 # Additional Resources for 5DATA005W-Data-Engineering Module for Level 5 Data Science students (2024-2025 University of Westminster)
 
-The module is mandatory for Level 5 Data Science students. It was taught by myself ([Habeeb Balogun]([http://nedjmaou.github.io](https://www.westminster.ac.uk/about-us/our-people/directory/balogun-habeeb)): module leader).
-
+The module is mandatory for Level 5 Data Science students and was taught by me, [Habeeb Balogun](https://www.westminster.ac.uk/about-us/our-people/directory/balogun-habeeb), as the module leader.
 This module provides a basic understanding of data engineering methods with (mostly) practical tips, hands-on experience in data engineering pipelines, and some theory.
  
 The compiled list includes courses, blog posts, videos, and research papers sorted by themes.
