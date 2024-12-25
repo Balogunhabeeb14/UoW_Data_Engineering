@@ -1,14 +1,13 @@
 # Additional Resources for 5DATA005W-Data-Engineering Module for Level 5 Data Science students (2024-2025 University of Westminster)
 
 The module is mandatory for Level 5 Data Science students and was taught by me, [Habeeb Balogun](https://www.westminster.ac.uk/about-us/our-people/directory/balogun-habeeb), as the module leader.
-This module provides a basic understanding of data engineering methods with (mostly) practical tips, hands-on experience in data engineering pipelines, and some theory.
+This module provides a basic understanding of data engineering with hands-on experience in data engineering pipelines and some theory.
  
 The compiled list includes courses, blog posts, videos, and research papers sorted by themes.
 
 ## Content
 
 - [Resources for Beginners](##Resources-for-Beginners)
-- [Resources for Reading and Writing Research Papers](##Resources-for-Reading-and-Writing-Research-Papers)
 - [Additional Resources (Class Content)](##Additional-Resources-(Class-Content))
   - [Introduction to Data Engineering (General Resources)](###Introduction-to-Data-Engineering-(General-Resources))
   - [Big Data and Distributed Systems](###Big-Data-and-Distributed-Systems)
@@ -17,9 +16,9 @@ The compiled list includes courses, blog posts, videos, and research papers sort
   - [Data Pipelines and Automation](###Data-Pipelines-and-Automation)
 
 ## Resources for Beginners
-- [Beginner’s Guide to Data Engineering](https://medium.com/data-engineering-on-gcp/data-engineering-starter-guide-ae34979a377d) by Harish Kumar.
-- [Foundations of Data Engineering: Data Pipelines](https://realpython.com/data-engineering-pipelines/) by Real Python.
-- [Python for Data Engineers (FreeCodeCamp YouTube)](https://www.youtube.com/watch?v=5gl3-iA5RZM).
+- [Beginner’s Guide to Data Engineering](https://www.geeksforgeeks.org/data-engineering-101/) by Geeks.
+- [What is Data Engineering and is it right for you?](https://realpython.com/podcasts/rpp/42/) by Real Python.
+- [Data Engineering Course for Beginners (FreeCodeCamp YouTube)](https://www.youtube.com/watch?v=PHsC_t0j1dU&t=901s).
 - [W3Schools: SQL Tutorial](https://www.w3schools.com/sql/).
 - [Learn Data Engineering](https://learndataengineering.com/): Comprehensive tutorials on ETL, databases, and cloud tools.
 - [Data Engineering Roadmap](https://github.com/datastacktv/data-engineer-roadmap): A curated roadmap for aspiring data engineers.
@@ -35,14 +34,6 @@ The compiled list includes courses, blog posts, videos, and research papers sort
   - [Apache Spark Quick Start Guide](https://spark.apache.org/docs/latest/quick-start.html).
   - [Databricks Introduction to Spark](https://databricks.com/spark/about).
 
-## Resources for Reading and Writing Research Papers
-### Reading Papers
-- [How to (Seriously) Read a Research Paper?](https://www.science.org/content/article/how-seriously-read-scientific-paper)
-
-### Writing Scientific Papers/Reports
-- **Writing an Abstract for Your Research Paper**: https://writing.wisc.edu/handbook/assignments/writing-an-abstract-for-your-research-paper/
-- **How to Write an Effective Data Engineering Report**: [To be added – tailored resource].
-- **Tips for Writing Technical Papers** by Mark Heard: https://engineering.linkedin.com/blog/2020/tech-writing-tips.
 
 ## Additional Resources (Class Content)
 ### Introduction to Data Engineering (General Resources)
