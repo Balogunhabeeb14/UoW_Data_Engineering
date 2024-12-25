@@ -18,8 +18,8 @@ The compiled list includes courses, blog posts, videos, and research papers sort
 ## Resources for Beginners
 - [Beginner’s Guide to Data Engineering](https://www.geeksforgeeks.org/data-engineering-101/) by Geeks.
 - [What is Data Engineering and is it right for you?](https://realpython.com/podcasts/rpp/42/) by Real Python.
-- [Data Engineering Course for Beginners (FreeCodeCamp YouTube)](https://www.youtube.com/watch?v=PHsC_t0j1dU&t=901s).
-- [W3Schools: SQL Tutorial](https://www.w3schools.com/sql/).
+- [Data Engineering Course for Beginners (FreeCodeCamp YouTube)](https://www.youtube.com/watch?v=PHsC_t0j1dU&t=901s) by FreeCodeCamp.
+- [W3Schools: SQL Tutorial](https://www.w3schools.com/sql/) by W3school.
 - [Learn Data Engineering](https://learndataengineering.com/): Comprehensive tutorials on ETL, databases, and cloud tools.
 - [Data Engineering Roadmap](https://github.com/datastacktv/data-engineer-roadmap): A curated roadmap for aspiring data engineers.
 
