@@ -1,20 +1,20 @@
 # Additional Resources for 5DATA005W-Data-Engineering Module for Level 5 Data Science students (2024-2025 University of Westminster)
 
-The module is mandatory for Level 5 Data Science students and was taught by me, [Habeeb Balogun](https://www.westminster.ac.uk/about-us/our-people/directory/balogun-habeeb), as the module leader.
-This module provides a basic understanding of data engineering with hands-on experience in data engineering pipelines and some theory.
+The module is mandatory for Level 5 Data Science students and was taught by me, [Habeeb Balogun](https://www.westminster.ac.uk/about-us/our-people/directory/balogun-habeeb), as the module leader. This module provides a basic understanding of data engineering with hands-on experience in data engineering pipelines and some theory.
  
 The compiled list includes courses, blog posts, videos, and research papers sorted by themes.
 
 ## Content
-
-- [Resources for Beginners](##Resources-for-Beginners)
-- [Additional Resources (Class Content)](##Additional-Resources-(Class-Content))
-  - [Introduction to Data Engineering (General Resources)](###Introduction-to-Data-Engineering-(General-Resources))
-  - [Big Data and Distributed Systems](###Big-Data-and-Distributed-Systems)
-  - [Cloud Platforms and Scalable Solutions](###Cloud-Platforms-and-Scalable-Solutions)
-  - [Data Governance, Ethics, and Bias](###Data-Governance,-Ethics,-and-Bias)
-  - [Data Pipelines and Automation](###Data-Pipelines-and-Automation)
-
+- [Resources for Beginners](#resources-for-beginners)
+- [Additional Resources](#additional-resources-class-content)
+  - [Introduction to Data Engineering (General Resources)](#introduction-to-data-engineering-general-resources)
+  - [Big Data and Distributed Systems](#big-data-and-distributed-systems)
+  - [Cloud Platforms and Scalable Solutions](#cloud-platforms-and-scalable-solutions)
+  - [Data Governance, Ethics, and Bias](#data-governance-ethics-and-bias)
+  - [Data Pipelines and Automation](#data-pipelines-and-automation)
+  - [Weekly Hands-on Materials](#weekly-hands-on-materials)
+  - [Recommended Textbooks](#recommended-textbooks-for-data-engineering)
+---
 ## Resources for Beginners
 - [Beginner’s Guide to Data Engineering](https://www.geeksforgeeks.org/data-engineering-101/) by Geeks.
 - [What is Data Engineering and is it right for you?](https://realpython.com/podcasts/rpp/42/) by Real Python.
@@ -22,56 +22,53 @@ The compiled list includes courses, blog posts, videos, and research papers sort
 - [W3Schools: SQL Tutorial](https://www.w3schools.com/sql/) by W3school.
 - [Learn Data Engineering](https://learndataengineering.com/): Comprehensive tutorials on ETL, databases, and cloud tools.
 - [Data Engineering Roadmap](https://github.com/datastacktv/data-engineer-roadmap): A curated roadmap for aspiring data engineers.
-
+---
 ### Resources for Students Unfamiliar with Cloud Platforms
 - **Introduction to Google Cloud Platform (GCP):**
   - [Google Cloud Free Tier](https://cloud.google.com/free).
-  - [Introduction to GCP for Beginners (Video)](https://www.youtube.com/watch?v=yoIkjG4VoU4).
+  - [Introduction to GCP for Beginners (Video)](https://www.youtube.com/watch?v=kzKFuHk8ovk&list=PLIivdWyY5sqKh1gDR0WpP9iIOY00IE0xL).
 - **Introduction to AWS for Data Engineering:**
   - [AWS Free Tier](https://aws.amazon.com/free/).
   - [AWS Fundamentals Specialization (Coursera)](https://www.coursera.org/specializations/aws-fundamentals).
 - **Introduction to Apache Spark:**
   - [Apache Spark Quick Start Guide](https://spark.apache.org/docs/latest/quick-start.html).
   - [Databricks Introduction to Spark](https://databricks.com/spark/about).
-
-
-## Additional Resources (Class Content)
+---
+---
+## Additional Resources
 ### Introduction to Data Engineering (General Resources)
 - [Data Engineering on GCP Specialization (Coursera)](https://www.coursera.org/specializations/gcp-data-engineering).
-- [Building Data Pipelines with Python](https://realpython.com/data-engineering-pipelines/).
+- [Building Data Pipelines with Python](https://www.youtube.com/watch?v=Y_vQyMljDsE).
 - [Designing Data-Intensive Applications by Martin Kleppmann](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/).
 - [ETL in Depth: A Beginner’s Guide](https://aws.amazon.com/what-is/etl/).
 - [Database Design and Implementation](https://www.coursera.org/learn/database-management).
-
+---
 ### Big Data and Distributed Systems
-- [Introduction to Big Data (Coursera)](https://www.coursera.org/learn/intro-to-big-data).
+- [Introduction to Big Data](https://www.youtube.com/watch?v=j-0cUmUyb-Y).
 - [The Hadoop Ecosystem](https://hadoop.apache.org/): Official Apache Hadoop resources.
 - [Understanding Apache Kafka](https://kafka.apache.org/): Kafka documentation and guides.
 - [Big Data Specialization by University of California, San Diego](https://www.coursera.org/specializations/big-data).
-
+---
 ### Cloud Platforms and Scalable Solutions
-- [AWS for Data Engineering](https://aws.amazon.com/data-engineering/).
-- [Data Engineering on Azure](https://azure.microsoft.com/en-us/services/data-engineering/).
-- [Google Cloud Data Engineering](https://cloud.google.com/learn/what-is-data-engineering).
+- [AWS for Data Engineering](https://www.youtube.com/watch?v=6G0bLDIcO7Y).
+- [Data Engineering on Azure](https://www.youtube.com/watch?v=sYfy2bQWIKg&list=PL9ooVrP1hQOGpbAJW6fvGa68Yb1C9Ytkt).
+- [Google Cloud Data Engineering](https://www.youtube.com/watch?v=ZVgt1-LfWW4&list=PLWXckUXLY7LzOBySwKXb9fqejwpGcnAwi).
 - [Kubernetes for Beginners](https://kubernetes.io/docs/tutorials/).
-
+---
 ### Data Governance, Ethics, and Bias
-- [Data Ethics and Responsible Use](https://www.oreilly.com/library/view/data-ethics-and/9781492040590/).
-- [Understanding Data Governance (DataCamp)](https://www.datacamp.com/tutorial/data-governance-introduction).
-- [Ethics in AI and Big Data](https://towardsdatascience.com/ethics-in-big-data-52a0f8529147).
-- Bender, Emily M., et al. "On the Dangers of Data Mismanagement."
-- Gebru, Timnit. "Datasheets for Datasets: A Framework for Ethical Data Use."
-
+- [Data Ethics and Responsible Use (DataCamp)](https://www.datacamp.com/blog/introduction-to-data-ethics).
+- [Understanding Data Governance](https://cloud.google.com/learn/what-is-data-governance?hl=en).
+- [Ethics in AI and Big Data](https://www.unglobalpulse.org/document/building-ethics-into-privacy-frameworks-for-big-data-and-ai/).
+---
 ### Data Pipelines and Automation
 - [Building Data Pipelines with Apache Airflow](https://airflow.apache.org/).
-- [ETL Frameworks for Python: A Review](https://towardsdatascience.com/etl-frameworks-in-python-968e88241610).
+- [ETL Frameworks for Python: A Review](https://www.datacamp.com/blog/a-list-of-the-16-best-etl-tools-and-why-to-choose-them).
 - [Apache NiFi: Automating Data Workflows](https://nifi.apache.org/).
 - [Stream Processing with Apache Flink](https://flink.apache.org/).
-- [Best Practices for Data Pipeline Design](https://towardsdatascience.com/best-practices-for-building-data-pipelines-4c5ed8c4e3b7).
-
-
-### Overview
-This repository contains scripts demonstrating a data engineering pipeline built using MongoDB Atlas (for unstructured data) and SQLite (for structured data). The pipeline covers essential steps such as ingestion, transformation, and storage for both structured datasets like tabular records and unstructured data like JSON or documents.
+- [Best Practices for Data Pipeline Design](https://learn.microsoft.com/en-us/data-engineering/playbook/articles/pipeline-reliability).
+---
+## Weekly Hands-on
+This section contains scripts demonstrating a data engineering pipeline built using MongoDB Atlas (for unstructured data) and SQLite (for structured data). The pipeline covers essential steps such as ingestion, transformation, and storage for both structured datasets like tabular records and unstructured data like JSON or documents.
 
 The scripts are designed to be simple and easy to understand for beginners or intermediate data engineers.
 
@@ -104,4 +101,17 @@ Python 3.8+
 MongoDB Atlas account with a free-tier cluster set up.
 SQLite (pre-installed with Python).
 ```
-
+---
+## Recommended Textbooks for Data Engineering
+1. **Fundamentals of Data Engineering: Plan and Build Robust Data Systems** by Joe Reis and Matt Housley  
+2. **Designing Data-Intensive Applications** by Martin Kleppmann  
+3. **The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling** by Ralph Kimball and Margy Ross  
+4. **Cloud Data Management** by Hector Garcia-Molina, Jeffrey D. Ullman, and Jennifer Widom  
+5. **Data Engineering with Python** by Paul Crickard  
+6. **Building the Data Lakehouse** by Bill Inmon and Mary Levins  
+7. **Streaming Systems** by Tyler Akidau, Slava Chernyak, and Reuven Lax  
+8. **The Big Data Handbook** by Arvind Sathi  
+9. **Data Pipelines Pocket Reference** by James Densmore  
+10. **Database Internals** by Alex Petrov  
+---
+Happy learning!
