@@ -6,7 +6,7 @@ The compiled list includes courses, blog posts, videos, and research papers sort
 
 ## Content
 - [Resources for Beginners](#resources-for-beginners)
-- [Additional Resources](#additional-resources-class-content)
+- [Additional Resources](#additional-resources)
   - [Introduction to Data Engineering (General Resources)](#introduction-to-data-engineering-general-resources)
   - [Big Data and Distributed Systems](#big-data-and-distributed-systems)
   - [Cloud Platforms and Scalable Solutions](#cloud-platforms-and-scalable-solutions)
