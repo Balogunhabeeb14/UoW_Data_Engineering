@@ -2,7 +2,7 @@
 
 The module is mandatory for Level 5 Data Science students and was taught by me, [Habeeb Balogun](https://www.westminster.ac.uk/about-us/our-people/directory/balogun-habeeb), as the module leader. This module provides a basic understanding of data engineering with hands-on experience in data engineering pipelines and some theory.
  
-The compiled list includes courses, blog posts, videos, and research papers sorted by themes.
+The compiled list includes courses, blog posts, videos, and textbooks sorted by themes.
 
 ## Content
 - [Resources for Beginners](#resources-for-beginners)
