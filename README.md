@@ -5,7 +5,6 @@ The module is mandatory for Level 5 Data Science students and was taught by me, 
 The compiled list includes courses, blog posts, videos, and textbooks sorted by themes.
 
 ## Content
-  - [Content](#content)
   - [Resources for Beginners](#resources-for-beginners)
     - [Resources for Students Unfamiliar with Cloud Platforms](#resources-for-students-unfamiliar-with-cloud-platforms)
   - [Additional Resources](#additional-resources)
