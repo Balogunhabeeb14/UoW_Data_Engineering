@@ -96,15 +96,13 @@ Folder Structure
 ├── Weekly Hands-on/    # Document file providing guide and context, accompanied by python script and data for each week. 
 └── README.md            # Project documentation
 ```
----
-Google Colab was used, but you can use any python IDE of your own choice, just make sure you change the directory in the python script to fit your own data location. 
----
 
 Prerequisites
 ```
 Python 3.8+
 MongoDB Atlas account with a free-tier cluster set up.
 SQLite (pre-installed with Python).
+Google Colab was used, but you can use any Python IDE of your own choice; make sure you change the directory in the Python script to fit your own data location. 
 ```
 ---
 ## Recommended Textbooks for Data Engineering
