@@ -1,0 +1,8 @@
+ID_phoneRate,phoneRateType
+1,Notte
+2,Giorno
+3,Mattino
+4,24 ore su 24
+5,CartaNatale
+6,Festivi
+7,Business

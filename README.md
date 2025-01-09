@@ -5,15 +5,19 @@ The module is mandatory for Level 5 Data Science students and was taught by me, 
 The compiled list includes courses, blog posts, videos, and textbooks sorted by themes.
 
 ## Content
-- [Resources for Beginners](#resources-for-beginners)
-- [Additional Resources](#additional-resources)
-  - [Introduction to Data Engineering (General Resources)](#introduction-to-data-engineering-general-resources)
-  - [Big Data and Distributed Systems](#big-data-and-distributed-systems)
-  - [Cloud Platforms and Scalable Solutions](#cloud-platforms-and-scalable-solutions)
-  - [Data Governance, Ethics, and Bias](#data-governance-ethics-and-bias)
-  - [Data Pipelines and Automation](#data-pipelines-and-automation)
-  - [Weekly Hands-on Materials](#weekly-hands-on-materials)
-  - [Recommended Textbooks](#recommended-textbooks-for-data-engineering)
+- [Additional Resources for 5DATA005W-Data-Engineering Module for Level 5 Data Science students (2024-2025 University of Westminster)](#additional-resources-for-5data005w-data-engineering-module-for-level-5-data-science-students-2024-2025-university-of-westminster)
+  - [Content](#content)
+  - [Resources for Beginners](#resources-for-beginners)
+    - [Resources for Students Unfamiliar with Cloud Platforms](#resources-for-students-unfamiliar-with-cloud-platforms)
+  - [Additional Resources](#additional-resources)
+    - [Introduction to Data Engineering (General Resources)](#introduction-to-data-engineering-general-resources)
+    - [Big Data and Distributed Systems](#big-data-and-distributed-systems)
+    - [Cloud Platforms and Scalable Solutions](#cloud-platforms-and-scalable-solutions)
+    - [Data Governance, Ethics, and Bias](#data-governance-ethics-and-bias)
+    - [Data Pipelines and Automation](#data-pipelines-and-automation)
+  - [Weekly Hands-on](#weekly-hands-on)
+  - [Google Colab was used, but you can use any python IDE of your own choice, just make sure you change the directory in the python script to fit your own data location.](#google-colab-was-used-but-you-can-use-any-python-ide-of-your-own-choice-just-make-sure-you-change-the-directory-in-the-python-script-to-fit-your-own-data-location)
+  - [Recommended Textbooks for Data Engineering](#recommended-textbooks-for-data-engineering)
 ---
 ## Resources for Beginners
 - [Beginner’s Guide to Data Engineering](https://www.geeksforgeeks.org/data-engineering-101/) by Geeks.
@@ -89,11 +93,12 @@ Storage: MongoDB Atlas serves as the repository for unstructured data, enabling 
 ```
 ```
 Folder Structure
-├── Weekly_Tutorial_Scripts/    # Python scripts for each pipeline step
+├── Weekly Hands-on/    # Document file providing guide and context, accompanied by python script and data for each week. 
 └── README.md            # Project documentation
 ```
-
-
+---
+Google Colab was used, but you can use any python IDE of your own choice, just make sure you change the directory in the python script to fit your own data location. 
+---
 
 Prerequisites
 ```
@@ -115,3 +120,5 @@ SQLite (pre-installed with Python).
 10. **Database Internals** by Alex Petrov  
 ---
 Happy learning!
+
+If this is any useful to you, please star/fork the repo. Thank you!

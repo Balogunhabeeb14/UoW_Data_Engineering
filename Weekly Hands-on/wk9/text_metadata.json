@@ -1,0 +1,8 @@
+{
+    "vectorization_methods": {
+        "bag_of_words": "Each word in the corpus is treated as a feature, and the text is represented by a count of each word.",
+        "tf_idf": "Each word in the corpus is weighted based on its frequency in the document and its inverse frequency across all documents."
+    },
+    "document_summary": "This is a summary of the text data preprocessing and vectorization for document 101551.",
+    "sentiment_label": "neutral"
+}

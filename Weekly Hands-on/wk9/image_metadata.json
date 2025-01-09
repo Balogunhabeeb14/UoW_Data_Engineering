@@ -1,0 +1,10 @@
+{
+    "processed_image.jpg": {
+        "keywords": [
+            "Fruits",
+            "Healthy food",
+            "green"
+        ],
+        "description": "A processed fruit image with resizing, rotation, and denoising applied."
+    }
+}
