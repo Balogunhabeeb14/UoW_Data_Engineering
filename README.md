@@ -90,7 +90,7 @@ Storage: MongoDB Atlas serves as the repository for unstructured data, enabling 
 ```
 ```
 Folder Structure
-├── Weekly Hands-on/    # Document file providing guide and context, accompanied by python script and data for each week. 
+├── Weekly Hands-on/    # pdf file providing guide and context, accompanied by python script and data for each week. 
 └── README.md            # Project documentation
 ```
 
