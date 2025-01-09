@@ -7,14 +7,13 @@ The compiled list includes courses, blog posts, videos, and textbooks sorted by 
 ## Content
   - [Resources for Beginners](#resources-for-beginners)
     - [Resources for Students Unfamiliar with Cloud Platforms](#resources-for-students-unfamiliar-with-cloud-platforms)
-  - [Additional Resources](#additional-resources)
+    - [Additional Resources](#additional-resources)
     - [Introduction to Data Engineering (General Resources)](#introduction-to-data-engineering-general-resources)
     - [Big Data and Distributed Systems](#big-data-and-distributed-systems)
     - [Cloud Platforms and Scalable Solutions](#cloud-platforms-and-scalable-solutions)
     - [Data Governance, Ethics, and Bias](#data-governance-ethics-and-bias)
     - [Data Pipelines and Automation](#data-pipelines-and-automation)
   - [Weekly Hands-on](#weekly-hands-on)
-  - [Google Colab was used, but you can use any python IDE of your own choice, just make sure you change the directory in the python script to fit your own data location.](#google-colab-was-used-but-you-can-use-any-python-ide-of-your-own-choice-just-make-sure-you-change-the-directory-in-the-python-script-to-fit-your-own-data-location)
   - [Recommended Textbooks for Data Engineering](#recommended-textbooks-for-data-engineering)
 ---
 ## Resources for Beginners
