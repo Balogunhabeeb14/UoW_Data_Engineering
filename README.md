@@ -5,7 +5,6 @@ The module is mandatory for Level 5 Data Science students and was taught by me, 
 The compiled list includes courses, blog posts, videos, and textbooks sorted by themes.
 
 ## Content
-- [Additional Resources for 5DATA005W-Data-Engineering Module for Level 5 Data Science students (2024-2025 University of Westminster)](#additional-resources-for-5data005w-data-engineering-module-for-level-5-data-science-students-2024-2025-university-of-westminster)
   - [Content](#content)
   - [Resources for Beginners](#resources-for-beginners)
     - [Resources for Students Unfamiliar with Cloud Platforms](#resources-for-students-unfamiliar-with-cloud-platforms)
